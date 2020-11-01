@@ -7,7 +7,7 @@ int main(void)
     printf("Enter value Of Gold\n");
     scanf("%f" , &gp );
 
-    printf("Enter waite of Jewellery\n");
+    printf("Enter waite of Jewellery\n"); 
     scanf("%f" , &w);
 
     printf("Enter Labor price\n");
