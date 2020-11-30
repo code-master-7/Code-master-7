@@ -14,6 +14,8 @@ int main()
     
 Lable:
 
+    printf("\n\aEnter type you want :");
+
     scanf("%d", &user);
 
 
@@ -31,7 +33,7 @@ Lable:
     {
         //kms to miles or miles to kms
     case 1:
-        printf("You selected 1 for kms to miles or miles to kms.(Type 1 for kms to miles or 2 for miles to kms)\n");
+        printf("\nYou selected 1 for kms to miles or miles to kms.(Type 1 for kms to miles or 2 for miles to kms)\n");
         scanf("%d", &unit1);
         if (unit1 == 1)
         {
@@ -49,7 +51,7 @@ Lable:
 
     //inches to foot or foot to inches
     case 2:
-        printf("You selected 2 for inches to foot or foot to inches.(Type 1 for inches to foot or 2 for foot to inches)\n");
+        printf("\nYou selected 2 for inches to foot or foot to inches.(Type 1 for inches to foot or 2 for foot to inches)\n");
         scanf("%d", &unit1);
         if (unit1 == 1)
         {
@@ -67,7 +69,7 @@ Lable:
 
     //cms to inches or inches to cms
     case 3:
-        printf("You selected 3 for cms to inches or inches to cms.(Type 1 for cms to inches or 2 for inches to cms)\n");
+        printf("\nYou selected 3 for cms to inches or inches to cms.(Type 1 for cms to inches or 2 for inches to cms)\n");
         scanf("%d", &unit1);
         if (unit1 == 1)
         {
@@ -85,7 +87,7 @@ Lable:
 
         //pound to kgs or kgs to pound
     case 4:
-        printf("You selected 4 for pound to kgs or kgs to pound.(Type 1 for pound to kgs or 2 for kgs to pound)\n");
+        printf("\nYou selected 4 for pound to kgs or kgs to pound.(Type 1 for pound to kgs or 2 for kgs to pound)\n");
         scanf("%d", &unit1);
         if (unit1 == 1)
         {
@@ -103,7 +105,7 @@ Lable:
 
         //inches to meters or meters to inches
     case 5:
-        printf("You selected 5 for inches to meters or meters to inches.(Type 1 for inches to meters or 2 for meters to inches)\n");
+        printf("\nYou selected 5 for inches to meters or meters to inches.(Type 1 for inches to meters or 2 for meters to inches)\n");
         scanf("%d", &unit1);
         if (unit1 == 1)
         {
@@ -125,9 +127,6 @@ Lable:
     }
 
     end :
-
-        printf("\nThank you for using converter ...\n");
-        printf("\n~~~ Created by Code - Master - 7 ~~~\n\n");
-
+    
     return 0;
 }
