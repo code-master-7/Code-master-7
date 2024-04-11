@@ -68,9 +68,4 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/code-master-7/count.svg?"  />
 </div>
-
-###
-
-<p align="left">Blog: <a href="www.code-master-7.blogspot.com"> code-master-7</a></p>
-
 ###
