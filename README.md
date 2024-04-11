@@ -12,7 +12,7 @@
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dxNDBkaGJxbmkxb2N0aXJ1Z2UwMWI5bXk1dWJ5bzFsenNydDdqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
-
+**Languages**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -37,6 +37,7 @@
 
 ###
 
+**Contact**
 <div align="left">  
   <a href="https://www.linkedin.com/in/nimesh-kadecha-b42b771b9/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
