@@ -1,12 +1,17 @@
 <h2 align="left">I'm Nimesh, an IT student passionate about continuous learning. Proficient in Java, I've crafted multiple Android projects and also worked in PHP, Firebase, and SQLite.</h2>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=code-master-7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=code-master-7&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=code-master-7&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-master-7&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=code-master-7&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=code-master-7&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dxNDBkaGJxbmkxb2N0aXJ1Z2UwMWI5bXk1dWJ5bzFsenNydDdqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
@@ -65,5 +70,6 @@
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/code-master-7/count.svg?"  />
+    <h4>View Count</h4>
+    <img src="https://profile-counter.glitch.me/code-master-7/count.svg?"  />
 </div>
