@@ -1,4 +1,4 @@
-<h2 align="left">I'm Nimesh, an IT student passionate about continuous learning. Proficient in Java, I've crafted multiple Android projects and also worked in PHP, Firebase, and SQLite.</h2>
+<h2 align="left">I'm Nimesh, an IT student passionate about continuous learning. Proficient in Java, I've crafted multiple Android projects and also worked in PHP, Firebase, SQLite, HTML, CSS and JS.</h2>
 
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-master-7&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
