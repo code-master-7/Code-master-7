@@ -1,23 +1,40 @@
 <h2 align="left">I'm Nimesh, an IT student passionate about continuous learning. Proficient in Java, I've crafted multiple Android projects and also worked in PHP, Firebase, SQLite, HTML, CSS and JS.</h2>
 
----
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-master-7&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=code-master-7&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=code-master-7&theme=onedark&hide_border=false)<br/>
+<div id="stat1">
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-master-7&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+<div id="stat2">
+  
+![](https://github-readme-stats.vercel.app/api?username=code-master-7&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)
+
+</div>
+<div id="stat3">
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=code-master-7&theme=onedark&hide_border=false)
+
+</div>
 
 ### 🏆 GitHub Trophies
+<div id="Trophies">
+  
 ![](https://github-profile-trophy.vercel.app/?username=code-master-7&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
+</div>
+
 ### 🔝 Top Contributed Repo
+<div id="Contributed">
+  
 ![](https://github-contributor-stats.vercel.app/api?username=code-master-7&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
+</div>
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dxNDBkaGJxbmkxb2N0aXJ1Z2UwMWI5bXk1dWJ5bzFsenNydDdqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<img id="aside_img" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dxNDBkaGJxbmkxb2N0aXJ1Z2UwMWI5bXk1dWJ5bzFsenNydDdqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
 **Languages**
-<div align="left">
+<div align="left" id="languages">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
@@ -42,7 +59,7 @@
 ###
 
 **Contact**
-<div align="left">  
+<div align="left" id="contact">  
   <a href="https://www.linkedin.com/in/nimesh-kadecha-b42b771b9/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </a>
@@ -58,7 +75,7 @@
 
 ###
 
-<div align="left">
+<div align="left" id="contact2">
 <!--   <a href="https://twitter.com/KadechaNimesh"> -->
 <!--   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a> -->
 <!--   <a href="https://discord.com/users/763439472317825036"> -->
