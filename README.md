@@ -1,4 +1,4 @@
-<h2 align="left">I'm Nimesh, an IT student passionate about continuous learning. Proficient in Java, I've crafted multiple Android projects and also worked in PHP, Firebase, SQLite, HTML, CSS and JS.</h2>
+<h2 align="left">I'm Nimesh, an IT student passionate about continuous learning. Proficient in Java, I've crafted multiple Android projects and also worked in PHP, Firebase, SQLite, HTML, CSS, SASS and JS.</h2>
 
 <div id="stat1">
 
